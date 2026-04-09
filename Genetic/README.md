@@ -57,7 +57,7 @@ CudaGeneticAlgorithm/
 
 ## Запуск
 
-Откройте `genetic_algorithm.ipynb` и выполните все ячейки.
+Откройте `HPC_Genetic_6131.ipynb` и выполните все ячейки.
 
 Минимальные зависимости:
 
